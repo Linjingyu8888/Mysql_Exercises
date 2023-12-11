@@ -1,2 +1,2 @@
 # Mysql_Exercises
-## SQL exercise with solutions for new beginers from leetcode.com
+## SQL exercises with solutions for new beginers from leetcode.com
